@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.exe
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.deps.json
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.runtimeconfig.json
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.dll
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\bin\Debug\netcoreapp3.1\week1Operator.pdb
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.dll
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.pdb
+C:\Users\Administrator\source\repos\week1Operator\week1Operator\obj\Debug\netcoreapp3.1\week1Operator.genruntimeconfig.cache
